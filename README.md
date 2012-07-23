@@ -1,5 +1,9 @@
 # Site Down
 
+## Is it just you, or is it actually down?
+
+Check [isup.me](http://www.isup.me) to see if it's an internal network problem or your website is actually having problems.
+
 ## Check the server is up and the DNS responds
 
 * `$ ping xxx.xxx.xxx.xxx`
