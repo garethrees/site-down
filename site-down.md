@@ -13,9 +13,9 @@
 
 Are there error messages at the bottom of the file? Does anything look unusual?
 
-* $ `tail -n 2000 /var/log/httpd/error_log`
-* $ `tail -n 2000 /var/log/httpd/access_log`
-* $ `tail -n 2000 APP_ROOT/log/production.log`
+* `$ tail -n 2000 /var/log/httpd/error_log`
+* `$ tail -n 2000 /var/log/httpd/access_log`
+* `$ tail -n 2000 APP_ROOT/log/production.log`
 
 ## Check that MySQL is running
 
